@@ -143,7 +143,7 @@ export default function App() {
                 Pop Quiz Time!
               </span>
               <h2 className="text-2xl md:text-4xl font-bold leading-tight text-slate-800">
-                How many times in the last year do you guess that <span className="text-blue-500 underline decoration-blue-200 underline-offset-4 decoration-4">Kids Town Family Pediatric's</span> website was "impressed" on users in Google search as a result of the work that <span className="text-emerald-500">DentalQore</span> provides for them?
+                How many times in the last year do you guess that the <span className="text-blue-500 underline decoration-blue-200 underline-offset-4 decoration-4">Kids Town Family Pediatric's</span> website was "impressed" on users in Google search as a result of the work that <span className="text-emerald-500">DentalQore</span> provides for them?
               </h2>
             </div>
 
